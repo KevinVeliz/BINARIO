@@ -2,7 +2,7 @@
 #include <fstream>
 using namespace std;
 #define tamanio(a) (sizeof(a)/sizeof(a[0]));
-
+//funciones
 void escribir();
 int menu(int);
 
